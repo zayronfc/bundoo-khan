@@ -16,3 +16,15 @@ body {
     background-repeat: no-repeat !important;
     background-attachment: fixed !important;
 }
+/* Show storefront inside the main card */
+.page {
+    background:
+        linear-gradient(
+            to bottom,
+            rgba(0, 45, 25, 0.10) 0%,
+            rgba(0, 55, 32, 0.35) 35%,
+            rgba(0, 50, 30, 0.80) 65%,
+            rgba(0, 30, 18, 0.96) 100%
+        ),
+        url("background.jpg") center top / cover no-repeat !important;
+}
