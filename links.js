@@ -7,8 +7,9 @@
   const REVIEW_URL = "https://g.page/r/EXAMPLE/review";
 */
 
-const MENU_URL = "https://alhaajbundookhan.ae/";
-const REVIEW_URL = "https://www.google.com/search?q=Al+Haaj+Bundoo+Khan+Oud+Metha+Dubai+reviews";
+const MENU_URL = "https://www.zomato.com/dubai/al-haaj-bundoo-khans-oud-metha/menu";
+
+const REVIEW_URL = "https://search.google.com/local/writereview?placeid=ChIJ8RIe9NFCXz4RU7RrWu-72Gw";
 
 document.getElementById("menuButton").href = MENU_URL;
 document.getElementById("reviewButton").href = REVIEW_URL;
