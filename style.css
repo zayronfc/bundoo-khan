@@ -28,3 +28,10 @@ body {
         ),
         url("background.jpg") center top / cover no-repeat !important;
 }
+.page {
+    background:
+        linear-gradient(
+            rgba(0, 45, 28, 0.88),
+            rgba(0, 35, 22, 0.94)
+        ) !important;
+}
