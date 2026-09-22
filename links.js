@@ -7,7 +7,7 @@
   const REVIEW_URL = "https://g.page/r/EXAMPLE/review";
 */
 
-const MENU_URL = "https://www.zomato.com/dubai/al-haaj-bundoo-khans-oud-metha/menu";
+const MENU_URL = "./bundoo-khan-menu.pdf";
 
 const REVIEW_URL = "https://search.google.com/local/writereview?placeid=ChIJ8RIe9NFCXz4RU7RrWu-72Gw";
 
